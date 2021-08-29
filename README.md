@@ -1,7 +1,7 @@
 Abstract
 
-This semester paper gives the preparatory work for a numerical ap-
-proximation of Poisson’s equation with a Dirichlet boundary condition
+This semester paper gives the preparatory work for a numerical a
+approximation of Poisson’s equation with a Dirichlet boundary condition
 in two dimensions. A mixed finite element approach is applied to
 the primal-dual coupling problem. Conforming bilinear lowest-order
 Raviart-Thomas elements are imposed on the primal domain and con-
