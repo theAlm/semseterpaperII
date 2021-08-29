@@ -10,4 +10,4 @@ functions of both finite element spaces and the stiffness matrix ele-
 ments are derived. Applying the virtual gap technique the basis is
 scaled in order to maintain a well-posed linear system. The focus is
 on deriving all formula in order to implement the method in a straight
-forward manner in the MATLAB finite element toolbox LehrFEM.v
+forward manner in the MATLAB finite element toolbox LehrFEM.
